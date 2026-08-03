@@ -6,7 +6,7 @@ local cam = workspace.CurrentCamera
 local rs = game:GetService("RunService")
 local uis = game:GetService("UserInputService")
 local pUI = (gethui and gethui()) or (game:GetService("CoreGui"):FindFirstChild("RobloxGui") and game:GetService("CoreGui")) or lp:WaitForChild("PlayerGui")
-local correctKey = "KHMER"
+local correctKey = "123"
 local settings = {speed = 100, speed_toggle = false, aimbot = false, esp = false, tracers = false, noclip = false, infjump = false, antiafk = false}
 if pUI:FindFirstChild("KHMER_STRONG_V55") then pUI.KHMER_STRONG_V55:Destroy() end
 local sg = Instance.new("ScreenGui", pUI)
