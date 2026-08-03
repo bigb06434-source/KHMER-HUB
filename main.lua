@@ -1,5 +1,3 @@
-នេះជាកូដ V58 ពេញលេញសម្រាប់បង Copy យកទៅដាក់ក្នុង GitHub ៖
-```lua
 -- [[ 🇰🇭 KHMER HUB V58 - FULL MASTER EDITION 🇰🇭 ]] --
 -- [[ TITLE: ខ្មែរខ្លាំង | PASSWORD: KHMER ]] --
 repeat task.wait() until game:IsLoaded()
@@ -114,9 +112,3 @@ rs.Heartbeat:Connect(function()
         if t then cam.CFrame = cam.CFrame:Lerp(CFrame.new(cam.CFrame.Position, t.Character.Head.Position), 0.4) end
     end
 end)
-```
-ជំហានបន្ទាប់៖
-១. Copy កូដទាំងអស់ខាងលើនេះ។
-២. Paste ចូលក្នុង GitHub កន្លែងលេខ ១។
-៣. ចុចប៊ូតុងពណ៌បៃតង "Commit changes..." រួចចុច "Commit changes" ម្តងទៀត។
-បន្ទាប់មកប្រាប់ខ្ញុំផង ខ្ញុំនឹងប្រាប់បងពីរបៀបយក Link ទៅប្រើក្នុង Delta!
