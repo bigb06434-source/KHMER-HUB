@@ -1,6 +1,5 @@
 -- [[ 🇰🇭 KHMER HUB V58 - ULTIMATE MASTER EDITION 🇰🇭 ]] --
 -- [[ TITLE: ខ្មែរខ្លាំង | PASSWORD: KHMER ]] --
-if not game:IsLoaded() then game.Loaded:Wait() end
 local lp = game:GetService("Players").LocalPlayer
 local cam = workspace.CurrentCamera
 local rs = game:GetService("RunService")
